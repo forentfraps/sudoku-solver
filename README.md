@@ -7,7 +7,7 @@
 
 ## Some description
 
-### Code is (obviously) capable of solving any possible sudoku arrangement. For easier use, user is advised to import via the test.txt (better explained in the __init__()). As an example I found the most difficult sudoku (it is in the test.txt already). I will also use my ability to post some screenshots :-)
+### Code is (obviously) capable of solving any possible sudoku arrangement. For easier use, user is advised to import via the test.txt (better explained in the __init__ ()). As an example I found the most difficult sudoku (it is in the test.txt already). I will also use my ability to post some screenshots :-)
 
 
 
