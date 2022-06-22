@@ -1,0 +1,9 @@
+8 N N N N N N N N 
+N N 3 6 N N N N N 
+N 7 N N 9 N 2 N N 
+N 5 N N N 7 N N N 
+N N N N 4 5 7 N N 
+N N N 1 N N N 3 N 
+N N 1 N N N N 6 8 
+N N 8 5 N N N 1 N 
+N 9 N N N N 4 N N 
