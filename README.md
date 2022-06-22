@@ -9,11 +9,11 @@
 
 ### Code is (obviously) capable of solving any possible sudoku arrangement. For easier use, user is advised to import via the test.txt (better explained in the __init__()). As an example I found the most difficult sudoku (it is in the test.txt already). I will also use my ability to post some screenshots :-)
 
-#### P.S. PowerShell supports coloured output (unlike cmd)
 
 
 
-![image](https://user-images.githubusercontent.com/29946764/175158807-6bbedd1e-ada6-45a3-b921-7657356f955c.png)
+![image](https://user-images.githubusercontent.com/29946764/175162114-029740ba-ac6d-4618-b9fe-06eada97e780.png)
+
 
 
 
